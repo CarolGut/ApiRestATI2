@@ -2,7 +2,7 @@
 
 1. Instalar Python.
 2. Instalar modulos (flask y flask_restful).
-3. Ubicarse en el directorio flask/ApiREST
+3. Ubicarse en el directorio FLASK/ApiREST
 4. Iniciar servidor:  python api.py
 
 Ejemplos para los metodos:
