@@ -6,6 +6,7 @@
 4. Iniciar servidor:  python api.py
 
 Ejemplos para los metodos:
+
 GET: http://127.0.0.1:5000/productos
      - http://127.0.0.1:5000/productos/producto5
 
