@@ -7,7 +7,7 @@
 
 Ejemplos para los metodos:
 GET: http://127.0.0.1:5000/productos
-    http://127.0.0.1:5000/productos/producto5
+     - http://127.0.0.1:5000/productos/producto5
 
 POST: http://127.0.0.1:5000/productos?name=Dulce&price=5000
 
