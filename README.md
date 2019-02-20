@@ -1,4 +1,8 @@
+<<<<<<< HEAD
             Instrucciones de instalación y ejecución
+=======
+                                    Instrucciones de instalación y ejecución
+>>>>>>> bd9952757333263f96a38d02a1d2e91244a933f0
 
 1. Instalar Python.
 2. Instalar modulos (flask y flask_restful).
